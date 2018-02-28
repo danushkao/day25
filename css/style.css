@@ -1,0 +1,52 @@
+
+body {
+	font: 300 18px/1.5 Lato, serif;
+	background-color:  #ffffff;
+	margin:130px 100px;
+	
+}
+.da-container {
+	
+	margin:0 auto;
+	background-color:  #ffffff;
+	box-shadow: 0px 4px 68px 0px rgba(0, 0, 0, 0.1);
+}
+
+
+.da-text-editor {
+	padding: 140px 138px 150px 121px;
+}
+.da-post-title {
+	font:400 42px 'Playfair Display', serif;
+	color: #171717;
+	text-align: left;
+}
+p.da-first-letter:first-letter {
+	float: left;
+	font: 400 80px 'Playfair Display', serif;
+	margin: -20px 15px 0px 0;
+}
+p {
+	font: 300 20px/1.5 Lato, serif;
+}
+
+
+blockquote:before {
+	content: '\201c';
+}
+blockquote:after {
+	content: "\201d";
+}
+blockquote {
+	font-size: 20px;
+}
+	
+
+.da-button {
+	padding: 10px 60px;
+	color: #E8A156;
+	background-color: white;
+	border: 2px solid #E8A156;
+	text-decoration: none;
+}
+
